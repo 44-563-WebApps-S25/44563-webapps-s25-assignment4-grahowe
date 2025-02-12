@@ -1,4 +1,3 @@
-/* General styles */
 .speech {
     font-family: "Garamond", serif;
     font-size: 16px;
@@ -26,7 +25,6 @@
     color: black;
 }
 
-/* Character-specific styles */
 .duke {
     color: darkblue;
 }
