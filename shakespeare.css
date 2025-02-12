@@ -36,3 +36,29 @@
 .juliet {
     color: purple;
 }
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.table th, .table td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.table th {
+    background-color: #3f3f3f;
+    color: white;
+}
+
+.table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table tr:hover {
+    background-color: #d9d9d9;
+}
